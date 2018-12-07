@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2018-05-07T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/the-latest-news-from-the-central-texas-market-is-here.html</loc>
+<lastmod>2018-10-29T12:03:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/this-is-a-test-post-copy-2.html</loc>
-<lastmod>2018-05-10T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/if-you-qualify-you-could-pay-zero-down-for-a-new-home.html</loc>
+<lastmod>2018-11-09T16:49:08-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/3-things-homeowners-are-thankful-for.html</loc>
+<lastmod>2018-11-16T14:19:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/meet-adkins-real-estate-group.html</loc>
+<lastmod>2018-11-16T14:50:56-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/welcome-to-adkins-real-estate-group.html</loc>
+<lastmod>2018-11-16T14:53:08-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/housing-market-updates.html</loc>
+<lastmod>2018-12-06T18:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>

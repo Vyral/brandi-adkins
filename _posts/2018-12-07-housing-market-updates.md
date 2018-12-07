@@ -13,4 +13,4 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-&lt;iframe src=”https://www.simplifyingthemarket.com/?a=360843-5a01dae6d4383ad4df8857368ad6a851&iframe” scrolling=”yes” frameborder=”1″ marginheight=”0px” marginwidth=”0px” height=”800px” width=”100%” allowfullscreen&gt;&lt;/iframe&gt;
+<iframe src="https://www.simplifyingthemarket.com/?a=360843-5a01dae6d4383ad4df8857368ad6a851&iframe" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="100%" allowfullscreen></iframe>
