@@ -21,11 +21,11 @@ youtube_code: 54uo94yEfZU
 
 As we wrap up 2018 and begin to set our sights on the new year ahead, planning for changes already underway, or soon-to-be underway, is so important—I like to consider it “assessing the situation.”&nbsp;
 
-Maybe your family is outgrowing your home, you have children going off to college or relatives moving in, or it’s time to sell a property you no longer wish to maintain. Whatever the reason may be, **now is the time to get prepared.&nbsp;**
+Maybe your family is outgrowing your home, you have children going off to college or relatives moving in, or it’s time to sell a property you no longer wish to maintain. Whatever the reason may be, **now is the time to prepare.&nbsp;**
 
 {% include pullquote.html %}
 
-It could be that you’re looking forward to making an earnest offer on a home that’s right for you as soon as it hits the market. Being prepared means having a blueprint for when that moment comes—having the approval in place, knowing average days on market for the area, and what you’ll net to roll into the next house would all be part of that blueprint.&nbsp;
+It could be that you’re looking forward to making an earnest offer on a home that’s right for you as soon as it hits the market. **Being prepared means having a blueprint for when that moment comes**—having the approval in place, knowing average days on market for the area, and what you’ll net to roll into the next house would all be part of that blueprint.&nbsp;
 
 Life-changing (and life-defining) decisions such as this require proper preparation, so be prepared and in the know sooner rather than later.&nbsp;
 
