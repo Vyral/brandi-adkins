@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Make Preparations Now to Meet Your Real Estate Goals Later
-date: 2018-12-11 21:59:55
+date: 2018-12-11 21:59:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 54uo94yEfZU
+youtube_code: mSjOna1Bc50
 ---
 
 {% include youtube.html %}
