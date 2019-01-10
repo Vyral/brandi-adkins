@@ -28,6 +28,6 @@ Today, rates are at an average of 4.73%. At the beginning of November, that aver
 
 {% include pullquote.html %}
 
-So although home prices are high and they are gaining, you should also know that the gains are shrinking. More homes are coming on the market so if rates can stay low, we’ll see more buyers coming into the market. This bodes well for our market’s future.
+So although home prices are high and are gaining, you should also know that the gains are shrinking. More homes are coming on the market, so if rates can stay low, we’ll see more buyers coming into the market. This bodes well for our market’s future.
 
 If you have any questions about the current market or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
