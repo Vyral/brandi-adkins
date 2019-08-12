@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Adkins Real Estate Group - your professional Austin Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Brandi Adkins</managingEditor>
-    <lastBuildDate>2018-12-07 13:22:56 -0600</lastBuildDate>
+    <lastBuildDate>2019-08-12 14:12:05 -0500</lastBuildDate>
     <media:copyright>Brandi Adkins</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Austin, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,109 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Adkins Real Estate Group - your professional Austin Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Where Are Interest Rates and Where Are They Going?</title>
+        <link>http://localhost:4000/where-are-interest-rates-and-where-are-they-going.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Brandi Adkins</author>
+        <pubDate>2019-01-04 11:59:48 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brandi+Adkins/Adkins+Real+Estate+Group+_+Where+Are+Interest+Rates+and+Where+Are+They+Going_.mp4</guid>
+        <description>
+
+Interest rates are the lowest they’ve been in the last two months, but are home prices still high? Are they going up? I’m going to answer both of these questions today.
+
+Today, rates are at an average of 4.73%. At the beginning of November, that average was closer to 5.05%. That’s a change of around $70 per month on a monthly mortgage payment in our area.
+
+Over the last two years, the housing shortage we’ve experienced has pushed up prices much higher than they should have gone. When you couple that with rising rates, it really pushed potential buyers to their limits. 
+
+“Although home prices are gaining, those gains are shrinking.”
+
+So although home prices are high and are gaining, you should also know that the gains are shrinking. More homes are coming on the market, so if rates can stay low, we’ll see more buyers coming into the market. This bodes well for our market’s future.
+
+If you have any questions about the current market or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brandi+Adkins/Adkins+Real+Estate+Group+_+Where+Are+Interest+Rates+and+Where+Are+They+Going_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brandi+Adkins/Adkins+Real+Estate+Group+_+Where+Are+Interest+Rates+and+Where+Are+They+Going_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Interest rates are down, but home prices are up. Here’s what you need to know about the current state of the market.</itunes:subtitle>
+        <itunes:author>Brandi Adkins</itunes:author>
+        <itunes:summary>Interest rates are down, but home prices are up. Here’s what you need to know about the current state of the market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Austin, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why It’s Important to Price Your Home Effectively When Selling</title>
+        <link>http://localhost:4000/why-its-important-to-price-your-home-effectively-when-selling.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Brandi Adkins</author>
+        <pubDate>2018-12-26 14:48:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brandi+Adkins/Adkins+Real+Estate+Group+_+Why+Its+Important+to+Price+Your+Home+Effectively+When+Selling.mp4</guid>
+        <description>
+
+It can be easy to think your home is worth more than it actually is—after all, you’re proud of your home and you know buyers will love it just like you do! Unfortunately, this does not translate well to the market, and overpriced homes tend to sit, unsold, until price reductions are made.
+
+This recently happened when a client and I made an offer on a home that had been sitting on the market for 47 days. It took a little bit—we had to get with the lender, talk pricing, etc., and by the time we made our offer, there were two other offers, as well. Why were there suddenly multiple offers after 47 days? The home had a reduction that put it in line with neighborhood prices. Before, it had been $14,000 higher than comparable homes.
+
+“Overpriced homes tend to sit, unsold, until price reductions are made.”
+
+When the price became appropriate, the buyers came. 
+
+Sellers, you can enjoy bidding wars from the outset if you simply price your home correctly. Buyers, don’t write off a home that’s overpriced—wait for the eventual price reductions that are bound to happen. When it matches the price of comparable homes, make sure you have everything lined up so that you’re ready to pounce.
+
+If you’re looking to buy or sell, have any questions, or would like more information, feel free to reach out to me. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brandi+Adkins/Adkins+Real+Estate+Group+_+Why+Its+Important+to+Price+Your+Home+Effectively+When+Selling.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brandi+Adkins/Adkins+Real+Estate+Group+_+Why+Its+Important+to+Price+Your+Home+Effectively+When+Selling.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Don’t make the mistake of overpricing your home. Here’s why pricing correctly will guarantee you a better sale.</itunes:subtitle>
+        <itunes:author>Brandi Adkins</itunes:author>
+        <itunes:summary>Don’t make the mistake of overpricing your home. Here’s why pricing correctly will guarantee you a better sale.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Austin, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Make Preparations Now to Meet Your Real Estate Goals Later</title>
+        <link>http://localhost:4000/make-preparations-now-to-meet-your-real-estate-goals-later.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brandi Adkins</author>
+        <pubDate>2018-12-11 15:59:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brandi+Adkins/Adkins+Real+Estate+Group+%257C+Make+Preparations+Now+to+Meet+Your+Real+Estate+Goals+Later.mp4</guid>
+        <description>
+
+As we wrap up 2018 and begin to set our sights on the new year ahead, planning for changes already underway, or soon-to-be underway, is so important—I like to consider it “assessing the situation.” 
+
+Maybe your family is outgrowing your home, you have children going off to college or relatives moving in, or it’s time to sell a property you no longer wish to maintain. Whatever the reason may be, now is the time to prepare. 
+
+“Being prepared means having a blueprint for when that moment comes.”
+
+It could be that you’re looking forward to making an earnest offer on a home that’s right for you as soon as it hits the market. Being prepared means having a blueprint for when that moment comes—having the approval in place, knowing average days on market for the area, and what you’ll net to roll into the next house would all be part of that blueprint. 
+
+Life-changing (and life-defining) decisions such as this require proper preparation, so be prepared and in the know sooner rather than later. 
+
+I’m here to help you prepare for these most critical real estate decisions. If you have any questions or need guidance in preparing for the future, please give me a call!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brandi+Adkins/Adkins+Real+Estate+Group+%257C+Make+Preparations+Now+to+Meet+Your+Real+Estate+Goals+Later.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brandi+Adkins/Adkins+Real+Estate+Group+%257C+Make+Preparations+Now+to+Meet+Your+Real+Estate+Goals+Later.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Making sound decisions when it comes to your real estate goals for the coming year is so important.</itunes:subtitle>
+        <itunes:author>Brandi Adkins</itunes:author>
+        <itunes:summary>Making sound decisions when it comes to your real estate goals for the coming year is so important.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Austin, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>HOUSING MARKET UPDATES</title>
         <link>http://localhost:4000/housing-market-updates.html</link>

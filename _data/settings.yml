@@ -1,10 +1,12 @@
 audit_header: false
 title: Austin Real Estate Video Blog with Brandi Adkins
 description: Our mission at Adkins Real Estate Group is to be your best resource for Austin real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Adkins Real Estate Group, your professional Austin Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Free Newsletter
+    url: /newsletter/
+  - title: Brandi's Books
+    url: http://www.buyersellerresources.com/
 
 client:
   name: Brandi Adkins
@@ -24,24 +26,24 @@ client:
   url: http://www.AdkinsRealEstateGroup.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: https://adkins.3creekshomes.com/sell/
-  second_CTA_text: Home Search
-  second_CTA_URL: https://adkins.3creekshomes.com/
+  first_CTA_text: Free Home Buyers Guide
+  first_CTA_URL: https://mailchi.mp/maxavenue/dont-overpay
+  second_CTA_text: Free Seller Interview Guide
+  second_CTA_URL: https://mailchi.mp/maxavenue/sell-for-maximum-potential-value
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your Austin Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: https://adkins.3creekshomes.com/sell/
+    CTA_title: "Maximum Value Home Buying System"
+    CTA_text: "You Could Overpay for Your New Home Without Even Knowing"
+    CTA_link_text: "Free Home Buyers Guide"
+    CTA_url: https://mailchi.mp/maxavenue/dont-overpay
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a Austin Home?"
-    CTA_text2: "Search the entire MLS for your Austin home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: https://adkins.3creekshomes.com/
+    CTA_title2: "Never Suffer from Hiring the Wrong Real Estate Agent Again!"
+    CTA_text2: "How To Find Expert Representation With a Comprehensive Plan So You Can Avoid Paying An Agent Who Is Not Worth Their Commission"
+    CTA_link_text2: "Free Seller Interview Guide"
+    CTA_url2: https://mailchi.mp/maxavenue/sell-for-maximum-potential-value
 
 lender:
   show_section: false
