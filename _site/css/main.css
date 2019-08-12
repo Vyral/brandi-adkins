@@ -1631,6 +1631,9 @@ body {
   -webkit-animation: 1s ease-in-out fadein;
           animation: 1s ease-in-out fadein; }
 
+p {
+  font-size: 18px; }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   font-weight: 200;
@@ -2569,6 +2572,9 @@ form select {
 
 .newsletter {
   background: #0096c8; }
+
+.whitespace {
+  margin-top: 3rem; }
 
 #side-logo {
   width: 90%;
