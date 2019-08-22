@@ -45,7 +45,7 @@ So what should you do in case you spot a dream home which is "coming soon" but i
 
 If you do decide to submit an early offer, don't be surprised if it's not accepted right away. Even with a fair offer, the sellers are likely to want to see what kind of interest their home will get after it’s fully listed.
 
-If you are in buying mode, and you want to see some of the great homes that are on the market right now and available for viewing (and not just coming soon), check out my website [Brandiadkins.com](https://brandiadkins.com/){: target="_blank"}. It features all of Williamson County’s listings.
+If you are in buying mode, and you want to see some of the great homes that are on the market right now and available for viewing (and not just coming soon), check out my website **<u><a target="_blank" href="https://brandiadkins.com/">Brandiadkins.com</a></u>**. It features all of Williamson County’s listings.
 
 And if you do come across a "coming soon" listing and you want to research more about it, give me a call. I have my finger on the pulse of Williamson County, and I can help you dig up all sorts of relevant info if you are considering such a home.&nbsp;
 
