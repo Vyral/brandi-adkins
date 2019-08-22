@@ -31,7 +31,7 @@ I'm talking about those "coming soon" signs you've probably seen in at least a f
 
 First off, a "coming soon" home **may or may not be listed on the MLS**. Either way, it will not yet be available for viewing. This might be because the home itself is not yet ready, or because the owners are in the process of moving out.
 
-**When I say it's not available for viewing, that's a hard *no***. As long as this is a legitimate "coming soon" listing that complies with regulations, the home is off-limits to you or any other buyers.
+**When I say it's not available for viewing, that's a hard <u><em>no</em></u>**. As long as this is a legitimate "coming soon" listing that complies with regulations, the home is off-limits to you or any other buyers.
 
 {% include pullquote.html %}
 
