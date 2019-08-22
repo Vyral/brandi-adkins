@@ -21,7 +21,9 @@ youtube_code: ztm3HPOdkxo
 
 {% include youtube.html %}
 
-<center>Here’s a three-step process you should follow if you’re interested in a “coming soon” listing.</center>
+<center><em>Here&rsquo;s a three-step process you should follow if you&rsquo;re interested in a &ldquo;coming soon&rdquo; listing.</em></center>
+
+&nbsp;
 
 It's certainly smart marketing.
 
