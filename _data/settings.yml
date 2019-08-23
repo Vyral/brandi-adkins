@@ -35,7 +35,7 @@ client:
   phone2:
   phone2_type:
   email: Brandi@AdkinsRealEstateGroup.com
-  url:
+  url: 'http://maxavenue.com/agents/brandi-adkins'
 CTAs:
   first_CTA_text: Free Home Buyers Guide
   first_CTA_URL: 'https://mailchi.mp/maxavenue/dont-overpay'
