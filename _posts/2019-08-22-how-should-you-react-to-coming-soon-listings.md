@@ -37,15 +37,15 @@ First off, a "coming soon" home **may or may not be listed on the MLS**. Either 
 
 So what should you do in case you spot a dream home which is "coming soon" but is not on the market yet? Well, here's the three-step process I recommend to my clients:
 
-**1\. Beware your excitement**. Lots of folks, myself included, tend to want something more because it's currently off-limits. Keep this in mind while evaluating a "coming soon" home, and separate what you think about this home from the alluring fact that it's currently unavailable.
+**1\. Beware your excitement**. Lots of folks, myself included, tend to want something more when it's currently off-limits. Keep this in mind while evaluating a "coming soon" home, and separate what you think about this home from the alluring fact that it's currently unavailable.
 
-**2\. Do your research**. Even while a home is unavailable for viewing, you can gather a lot of information about it, including the sales history of the property, old pictures if the home was previously listed on the MLS, and of course, the date on which the listing will go live.
+**2\. Do your research**. Even while a home is unavailable for viewing, you can gather a lot of information about it, including its sales history, old pictures if the home was previously listed on the MLS, and (if the home was previously listed on the MLS) of course, the date on which the listing will go live.
 
-**3\. If you conclude it makes sense, make an early offer**. Even though a home is not yet available for viewing, you can still make an offer during this period. When submitting an offer on a home sight unseen, make sure you carefully craft the contract terms, including deadlines and contingencies, to minimize the risk you're exposed to.
+**3\. If it makes sense, make an early offer**. Even though a home is not yet available for viewing, you can still make an offer during this period. When submitting an offer on a home sight unseen, make sure you carefully craft the contract terms, including deadlines and contingencies, to minimize the risk you're exposed to.
 
-If you do decide to submit an early offer, don't be surprised if it's not accepted right away. Even with a fair offer, the sellers are likely to want to see what kind of interest their home will get after it’s fully listed.
+If you do decide to submit an early offer, don't be surprised if it's not accepted right away. Even with a fair offer, the sellers will likely want to see what kind of interest their home will get after it’s fully listed.
 
-If you are in buying mode, and you want to see some of the great homes that are on the market right now and available for viewing (and not just coming soon), check out my website **<u><a target="_blank" href="https://brandiadkins.com/">Brandiadkins.com</a></u>**. It features all of Williamson County’s listings.
+If you are in buying mode and you want to see some of the great homes that are on the market right now and available for viewing (and not just coming soon), check out my website **<u><a target="_blank" href="https://brandiadkins.com/">Brandiadkins.com</a></u>**. It features all of Williamson County’s listings.
 
 And if you do come across a "coming soon" listing and you want to research more about it, give me a call. I have my finger on the pulse of Williamson County, and I can help you dig up all sorts of relevant info if you are considering such a home.&nbsp;
 
