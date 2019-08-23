@@ -1,91 +1,110 @@
 audit_header: false
 title: Austin Real Estate Video Blog with Brandi Adkins
-description: Our mission at Adkins Real Estate Group is to be your best resource for Austin real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Adkins Real Estate Group, your professional Austin Real Estate Agents.
+description: >-
+  Our mission at Adkins Real Estate Group is to be your best resource for Austin
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The Adkins Real Estate Group, your
+  professional Austin Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Free Newsletter
     url: /newsletter/
   - title: Brandi's Books
-    url: http://www.buyersellerresources.com/
-
+    url: 'http://www.buyersellerresources.com/'
 client:
   name: Brandi Adkins
   title:
   license_number:
-  about_markdown: |
-    Brandi Adkins is the owner of Adkins Real Estate Group. For the last 15 years, she has pursued her passion of helping put Austinites in homes that they love. Adkins Real Estate Group is a dynamic and engaging boutique real estate firm in the Austin area. They have faithfully served clients and grown their business through satisfied client referrals. They work hard to inform, educate, and protect their clients through the entire real estate transaction. This client-centric approach has enabled them to build a successful referral-based business, creating and sustaining relationships with the hundreds of families they have helped buy and sell homes.
+  about_markdown: >-
+    Brandi Adkins is the owner of Adkins Real Estate Group. For the last 15
+    years, she has pursued her passion of helping put Austinites in homes that
+    they love. Adkins Real Estate Group is a dynamic and engaging boutique real
+    estate firm in the Austin area. They have faithfully served clients and
+    grown their business through satisfied client referrals. They work hard to
+    inform, educate, and protect their clients through the entire real estate
+    transaction. This client-centric approach has enabled them to build a
+    successful referral-based business, creating and sustaining relationships
+    with the hundreds of families they have helped buy and sell homes.
   market: Austin
   brand: Adkins Real Estate Group
   brokerage: Maxavenue
-  # address: 13945 U.S. Hwy. 183 North, Suite D-190<br>Austin, TX 78717
   phone: 512-565-2098
   phone_type:
   phone2:
   phone2_type:
   email: Brandi@AdkinsRealEstateGroup.com
-  url: http://www.AdkinsRealEstateGroup.com
-
+  url:
 CTAs:
   first_CTA_text: Free Home Buyers Guide
-  first_CTA_URL: https://mailchi.mp/maxavenue/dont-overpay
+  first_CTA_URL: 'https://mailchi.mp/maxavenue/dont-overpay'
   second_CTA_text: Free Seller Interview Guide
-  second_CTA_URL: https://mailchi.mp/maxavenue/sell-for-maximum-potential-value
-
+  second_CTA_URL: 'https://mailchi.mp/maxavenue/sell-for-maximum-potential-value'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "Maximum Value Home Buying System"
-    CTA_text: "You Could Overpay for Your New Home Without Even Knowing"
-    CTA_link_text: "Free Home Buyers Guide"
-    CTA_url: https://mailchi.mp/maxavenue/dont-overpay
-
+    CTA_title: Maximum Value Home Buying System
+    CTA_text: You Could Overpay for Your New Home Without Even Knowing
+    CTA_link_text: Free Home Buyers Guide
+    CTA_url: 'https://mailchi.mp/maxavenue/dont-overpay'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Never Suffer from Hiring the Wrong Real Estate Agent Again!"
-    CTA_text2: "How To Find Expert Representation With a Comprehensive Plan So You Can Avoid Paying An Agent Who Is Not Worth Their Commission"
-    CTA_link_text2: "Free Seller Interview Guide"
-    CTA_url2: https://mailchi.mp/maxavenue/sell-for-maximum-potential-value
-
+    CTA_title2: Never Suffer from Hiring the Wrong Real Estate Agent Again!
+    CTA_text2: >-
+      How To Find Expert Representation With a Comprehensive Plan So You Can
+      Avoid Paying An Agent Who Is Not Worth Their Commission
+    CTA_link_text2: Free Seller Interview Guide
+    CTA_url2: 'https://mailchi.mp/maxavenue/sell-for-maximum-potential-value'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/WhatIsMyAustinHomeWorth/
-  linkedin_url: https://www.linkedin.com/in/brandi-adkins-382337117/
-  gplus_url: https://plus.google.com/u/0/115685527709728156321
-  youtube_url: https://www.youtube.com/channel/UCHSP_uuOwbYtWPyZONdSqSA
-  twitter_url: https://twitter.com/brandiadkins
+  facebook_url: 'https://www.facebook.com/WhatIsMyAustinHomeWorth/'
+  linkedin_url: 'https://www.linkedin.com/in/brandi-adkins-382337117/'
+  gplus_url: 'https://plus.google.com/u/0/115685527709728156321'
+  youtube_url: 'https://www.youtube.com/channel/UCHSP_uuOwbYtWPyZONdSqSA'
+  twitter_url: 'https://twitter.com/brandiadkins'
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
-  title: 'Austin Real Estate Podcast with Brandi Adkins'
-  categories: Education
+  title: Austin Real Estate Podcast with Brandi Adkins
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Austin Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Adkins Real Estate Group - your professional Austin Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Austin, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Brandi Adkins'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Austin
+    Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Adkins Real Estate Group - your
+    professional Austin Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Austin, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Brandi Adkins
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 30
   hero_text: Austin Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -94,22 +113,19 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
