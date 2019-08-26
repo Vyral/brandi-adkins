@@ -39,7 +39,7 @@ So what should you do in case you spot a dream home which is "coming soon" but i
 
 **3\. If it makes sense, make an early offer**. Even though a home is not yet available for viewing, you can still make an offer during this period. When submitting an offer on a home sight unseen, make sure you carefully craft the contract terms, including deadlines and contingencies, to minimize the risk you're exposed to.
 
-{% include pullquote.html %}
+<a href="https://twitter.com/home/?status=As long as this is a legitimate #8220;coming soon&#8221; listing that complies with regulations, the home is off-limits to you or any other buyers.%20https://brandiadkins.com/how-should-you-react-to-coming-soon-listings.html%20via%40brandiadkins" target='_blank' class="pullquote">&#8220;As long as this is a legitimate “coming soon” listing that complies with regulations, the home is off-limits to you or any other buyers.&#8221;</a>
 
 If you do decide to submit an early offer, don't be surprised if it's not accepted right away. Even with a fair offer, the sellers will likely want to see what kind of interest their home will get after it’s fully listed.
 
