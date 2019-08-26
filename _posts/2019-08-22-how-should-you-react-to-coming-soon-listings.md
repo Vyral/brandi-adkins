@@ -9,9 +9,7 @@ excerpt: >-
   Here’s a three-step process you should follow if you’re interested in a
   “coming soon” listing.
 enclosure:
-pullquote: >-
-  As long as this is a legitimate "coming soon" listing that complies with
-  regulations, the home is off-limits to you or any other buyers.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
