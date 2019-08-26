@@ -23,8 +23,6 @@ youtube_code: ztm3HPOdkxo
 
 <center><em>Here&rsquo;s a three-step process you should follow if you&rsquo;re interested in a &ldquo;coming soon&rdquo; listing.</em></center>
 
-&nbsp;
-
 It's certainly smart marketing.
 
 I'm talking about those "coming soon" signs you've probably seen in at least a few front yards in our area. I frequently have homebuyers who are curious and interested in these listings, so I decided to answer a few questions about them and give you my perspective.
@@ -33,8 +31,6 @@ First off, a "coming soon" home **may or may not be listed on the MLS**. Either 
 
 **When I say it's not available for viewing, that's a hard <u><em>no</em></u>**. As long as this is a legitimate "coming soon" listing that complies with regulations, the home is off-limits to you or any other buyers.
 
-{% include pullquote.html %}
-
 So what should you do in case you spot a dream home which is "coming soon" but is not on the market yet? Well, here's the three-step process I recommend to my clients:
 
 **1\. Beware your excitement**. Lots of folks, myself included, tend to want something more when it's currently off-limits. Keep this in mind while evaluating a "coming soon" home, and separate what you think about this home from the alluring fact that it's currently unavailable.
@@ -42,6 +38,8 @@ So what should you do in case you spot a dream home which is "coming soon" but i
 **2\. Do your research**. Even while a home is unavailable for viewing, you can gather a lot of information about it, including its sales history, old pictures if the home was previously listed on the MLS, and (if the home was previously listed on the MLS) of course, the date on which the listing will go live.
 
 **3\. If it makes sense, make an early offer**. Even though a home is not yet available for viewing, you can still make an offer during this period. When submitting an offer on a home sight unseen, make sure you carefully craft the contract terms, including deadlines and contingencies, to minimize the risk you're exposed to.
+
+{% include pullquote.html %}
 
 If you do decide to submit an early offer, don't be surprised if it's not accepted right away. Even with a fair offer, the sellers will likely want to see what kind of interest their home will get after it’s fully listed.
 
