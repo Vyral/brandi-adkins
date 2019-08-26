@@ -10,7 +10,7 @@ excerpt: >-
   “coming soon” listing.
 enclosure:
 pullquote: >-
-  As long as this is a legitimate coming soon listing that complies with
+  As long as this is a legitimate 'coming soon' listing that complies with
   regulations, the home is off-limits to you or any other buyers.
 enclosure_type: video/mp4
 enclosure_time:
