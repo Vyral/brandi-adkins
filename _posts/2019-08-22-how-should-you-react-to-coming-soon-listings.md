@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Here’s a three-step process you should follow if you’re interested in a
   “coming soon” listing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandi+Adkins/Videos/How+Should+You+React+to+Coming+Soon+Listings_.mp4
 pullquote: >-
   As long as this is a legitimate 'coming soon' listing that complies with
   regulations, the home is off-limits to you or any other buyers.
