@@ -21,7 +21,7 @@ youtube_code: HMlVDTHj_nc
 
 {% include youtube.html %}
 
-Could you profit from the fastest-growing trend in real estate? Today I’ll explain how you can.
+<center>Could you profit from the fastest-growing trend in real estate? Today I’ll explain how you can.</center>
 
 What is the fastest-growing trend in real estate today?
 
