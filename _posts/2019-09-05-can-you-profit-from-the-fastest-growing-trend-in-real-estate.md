@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can You Profit From the Fastest-Growing Trend In Real Estate?
+title: Can You Profit From the Fastest-Growing Trend in Real Estate?
 date: 2019-09-05 00:00:00
 tags:
   - Real Estate
@@ -35,4 +35,4 @@ This makes good sense for several reasons:<br>&nbsp;<br>**1\. Rents are increasi
 
 {% include pullquote.html %}
 
-These reasons explain why big builders and investors are so keen on "build to rent" right now, but is there a way you could benefit from the same underlying market conditions, too?<br>&nbsp;<br>Well, **one smart option is to invest in a single-family home yourself and then rent it out**.<br>&nbsp;<br>This might make a lot of sense in the current market for two big reasons:<br>&nbsp;<br>First, **mortgage rates are at a temporary dip right now** and are near their all-time lows.<br>&nbsp;<br>In other words, **it's simply more affordable to buy a home right now**, because the interest payments at current rates would be so much lower than if you bought even six months ago.<br>&nbsp;<br>The other good reason is that several affordable and attractive single-family homes have recently come on our area market. In my opinion, they would make an excellent choice as an investment property.<br>&nbsp;<br>If you would like to see the homes I have in mind or if you have any questions in general, please reach out to me. I’d be glad to share my list with you.
+These reasons explain why big builders and investors are so keen on "build to rent" right now, but is there a way you could benefit from the same underlying market conditions, too?<br>&nbsp;<br>Well, **one smart option is to invest in a single-family home yourself and then rent it out**.<br>&nbsp;<br>This might make a lot of sense in the current market for two big reasons:<br>&nbsp;<br>First, **mortgage rates are at a temporary dip right now** and are near their all-time lows.<br>&nbsp;<br>In other words, **it's simply more affordable to buy a home right now**, because the interest payments at current rates would be so much lower than if you bought even six months ago.<br>&nbsp;<br>The other good reason is that several affordable and attractive single-family homes have recently come onto our area market. In my opinion, they would make an excellent choice as an investment property.<br>&nbsp;<br>If you would like to see the homes I have in mind or if you have any questions in general, please reach out to me. I’d be glad to share my list with you.
