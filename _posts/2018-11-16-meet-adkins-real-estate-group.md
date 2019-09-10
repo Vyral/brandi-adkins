@@ -14,5 +14,3 @@ youtube_code: hb01txW2GN0
 ---
 
 {% include youtube.html %}
-
-{% include pullquote.html %}
