@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Could you profit from the fastest-growing trend in real estate? Today I’ll
   explain how you can.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandi+Adkins/Videos/Can+You+Profit+From+the+Fastest-Growing+Trend+in+Real+Estate_.mp4
 pullquote: >-
   Last year, about 43,000 single-family homes were built for rent—the largest
   number in 40 years.
