@@ -17,7 +17,7 @@ youtube_code: i99WrAjXWmI
 
 {% include youtube.html %}
 
-Treat these 10 Commandments like scripture when you’re purchasing a home.
+<center>Treat these 10 Commandments like scripture when you’re purchasing a home.</center>
 
 When I’m consulting with a buyer, no matter if it’s their first or fifth home purchase, I’m always sure to go over the process and costs involved in great detail. Most important of all, I go over the 10 Commandments of buying a home. I understand no one likes to be preached at, but these are homebuyer musts as you move through the process.
 
