@@ -5,7 +5,7 @@ date: 2019-09-24 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt: Treat these 10 Commandments like scripture when you’re purchasing a home.
+excerpt: Treat these "10 Commandments" like scripture when you’re purchasing a home.
 enclosure:
 pullquote: There’s so much to learn when making a home purchase.
 enclosure_type: video/mp4
@@ -17,11 +17,11 @@ youtube_code: i99WrAjXWmI
 
 {% include youtube.html %}
 
-<center><em>Treat these 10 Commandments like scripture when you&rsquo;re purchasing a home.</em></center>
+<center><em>Treat these "10 Commandments" like scripture when you&rsquo;re purchasing a home.</em></center>
 
 &nbsp;
 
-When I’m consulting with a buyer, no matter if it’s their first or fifth home purchase, I’m always sure to go over the process and costs involved in great detail. Most important of all, I go over the 10 Commandments of buying a home. I understand no one likes to be preached at, but these are homebuyer musts as you move through the process.
+When I’m consulting with a buyer, no matter if it’s their first or fifth home purchase, I’m always sure to go over the process and costs involved in great detail. Most important of all, I go over the "10 Commandments" of buying a home. I understand no one likes to be preached at, but these are homebuyer musts as you move through the process.
 
 Without further ado, thou shall not:
 
