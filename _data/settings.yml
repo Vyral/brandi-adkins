@@ -29,13 +29,13 @@ client:
     with the hundreds of families they have helped buy and sell homes.
   market: Austin
   brand: Adkins Real Estate Group
-  brokerage: Maxavenue
-  phone: 512-565-2098
+  brokerage: 3 Creeks Real Estate
+  phone: (512) 565-2098
   phone_type:
   phone2:
   phone2_type:
   email: Brandi@AdkinsRealEstateGroup.com
-  url: 'http://maxavenue.com/agents/brandi-adkins'
+  url: 'http://adkinsrealestategroup.com/'
 CTAs:
   first_CTA_text: Free Home Buyers Guide
   first_CTA_URL: 'https://mailchi.mp/maxavenue/dont-overpay'
