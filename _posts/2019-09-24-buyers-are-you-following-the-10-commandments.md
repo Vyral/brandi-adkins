@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-23---brandi-adkins---yt.jpg
-youtube_code: i99WrAjXWmI
+youtube_code: xrYBJcVdKYQ
 ---
 
 {% include youtube.html %}
