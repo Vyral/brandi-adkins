@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Treat these "10 Commandments" like scripture when you’re purchasing a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandi+Adkins/Videos/Buyers-+Are+You+Following+the+10+Commandments_.mp4
 pullquote: There’s so much to learn when making a home purchase.
 enclosure_type: video/mp4
 enclosure_time:
