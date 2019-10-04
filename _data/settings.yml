@@ -37,24 +37,22 @@ client:
   email: Brandi@AdkinsRealEstateGroup.com
   url: 'http://adkinsrealestategroup.com'
 CTAs:
-  first_CTA_text: Free Home Buyers Guide
-  first_CTA_URL: 'https://mailchi.mp/maxavenue/dont-overpay'
-  second_CTA_text: Free Seller Interview Guide
-  second_CTA_URL: 'https://mailchi.mp/maxavenue/sell-for-maximum-potential-value'
+  first_CTA_text: Search All Homes
+  first_CTA_URL: 'http://homes.adkinsrealestategroup.idxhome.com/homesearch/123016'
+  second_CTA_text: What is My Home Worth?
+  second_CTA_URL: 'http://maximumvaluehomesellingsystem.com'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: Maximum Value Home Buying System
-    CTA_text: You Could Overpay for Your New Home Without Even Knowing
-    CTA_link_text: Free Home Buyers Guide
-    CTA_url: 'https://mailchi.mp/maxavenue/dont-overpay'
+    CTA_title: Search All Homes Here
+    CTA_text: Search the entire MLS for homes located in the Greater Austin area.
+    CTA_link_text: Search All Homes
+    CTA_url: 'http://homes.adkinsrealestategroup.idxhome.com/homesearch/123016'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: Never Suffer from Hiring the Wrong Real Estate Agent Again!
-    CTA_text2: >-
-      How To Find Expert Representation With a Comprehensive Plan So You Can
-      Avoid Paying An Agent Who Is Not Worth Their Commission
-    CTA_link_text2: Free Seller Interview Guide
-    CTA_url2: 'https://mailchi.mp/maxavenue/sell-for-maximum-potential-value'
+    CTA_title2: What is My Home Worth?
+    CTA_text2: Find out what your home is worth for free!
+    CTA_link_text2: Home Valuation
+    CTA_url2: 'http://maximumvaluehomesellingsystem.com'
 lender:
   show_section: false
   header_text: Preferred Lender
