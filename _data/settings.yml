@@ -53,6 +53,15 @@ second_sidebar_CTA:
     CTA_text2: Find out what your home is worth for free!
     CTA_link_text2: Home Valuation
     CTA_url2: 'http://maximumvaluehomesellingsystem.com'
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/001.jpg
+    CTA_title3: Books Authored By Brandi Adkins
+    CTA_text3: Claim Your Free Book Now from this Author & Realtor Based in Hutto, TX
+    CTA_link_text3: Brandi's Books
+    CTA_url3: 'http://www.buyersellerresources.com/'
+
+
 lender:
   show_section: false
   header_text: Preferred Lender
