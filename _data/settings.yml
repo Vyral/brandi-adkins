@@ -56,7 +56,7 @@ second_sidebar_CTA:
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/001.jpg
     CTA_title3: Books Authored By Brandi Adkins
-    CTA_text3: Claim your free book now!
+    CTA_text3: Claim your free books now!
     CTA_link_text3: Brandi's Books
     CTA_url3: 'http://www.buyersellerresources.com/'
 lender:
