@@ -21,7 +21,7 @@ youtube_code: wlbN2n2OCiw
 
 {% include youtube.html %}
 
-If you are trying to sell your home but the roof is old, find out what you should do about it here.
+<center>If you are trying to sell your home but the roof is old, find out what you should do about it here.</center>
 
 I currently have a listing where the seller’s roof is 18 years old. **It’s going to be difficult for the new buyers to insure an old roof**. So, we had a roofer that I trust go out and take a look at it. We wanted to see if there was any hail damage, or if its repairability or insurability was beyond the point that anything can be done. On a roof that age, when you’re making small repairs and patches, you’re actually damaging the roof even further because you’re disrupting the structure of what’s already there.
 
