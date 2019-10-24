@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/10-21---brandi-adkins---yt.jpg
-youtube_code: KLtwehr7z
+youtube_code: KLtwehr7z-Q
 ---
 
 {% include youtube.html %}
