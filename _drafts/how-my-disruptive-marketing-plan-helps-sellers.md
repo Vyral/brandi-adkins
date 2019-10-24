@@ -19,7 +19,7 @@ youtube_code: KLtwehr7z
 
 {% include youtube.html %}
 
-Using the internet to market your home for sale is essential these days, and today I’ll explain why.
+<center>Using the internet to market your home for sale is essential these days, and today I’ll explain why.</center>
 
 When was the last time you went shopping online? Most likely, it wasn’t all that long ago. We’ve entered the digital age, and now the real estate market is no different. Simply placing a sign in the front yard and hoping for buyers to show up is no longer enough. These days, **95% of buyers begin their search online, so utilizing online platforms (like social media) is essential**.
 
