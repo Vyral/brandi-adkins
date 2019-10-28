@@ -27,7 +27,7 @@ youtube_code: UlsmYs8isyU
 
 When was the last time you went shopping online? Most likely, it wasn’t all that long ago. We’ve entered the digital age, and now the real estate market is no different. **Simply placing a sign in the front yard and hoping for buyers to show up is no longer enough**.
 
-These days, 95% of buyers begin their search online and 77% use social media to search for homes. However, only 16% of agents use social media in their marketing strategies and only 1% of agents are using social media correctly\! Because of these reasons,&nbsp;**utilizing online platforms (like social media) is essential**.
+These days, 95% of buyers begin their search online and 77% use social media to search for homes. However, only 16% of agents use social media in their marketing strategies and only 1% of agents are using social media correctly\! For these reasons,&nbsp;**utilizing online platforms (like social media) is essential**.
 
 {% include pullquote.html %}
 
