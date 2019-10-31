@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Using the internet to market your home for sale is essential these days, and
   today I’ll explain why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brandi+Adkins/Videos/How+My+Disruptive+Marketing+Plan+Helps+Sellers.mp4
 pullquote: >-
   Simply placing a sign in the front yard and hoping for buyers to show up is no
   longer enough.
